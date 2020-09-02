@@ -1,4 +1,4 @@
-# calculator
+# Calculator app
 
 A new Flutter application.
 
